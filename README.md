@@ -10,7 +10,15 @@ I first used shttpd.r from earl https://github.com/earl/rebol3/blob/master/scrip
 
 After somehow killing my github repo, I restarted from scratch, but with the knowledge of havig tried to make it do what I want.
 
+
+Vision
+======
+
+An simple webserver, that's easy to extend.
+
+
 That said ...
+
 
 Usage
 =====
