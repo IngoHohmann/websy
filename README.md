@@ -37,6 +37,13 @@ Now point your browser at ...
 
     http://localhost:8080/whatever
     http://localhost:8080/hello.html
+
+
     
+A Word of Caution
+=================
+
+This is largely untested, there's no guarantee about anything. In fact it may turn your fridge into an oven, or the other way around. You have been warned.
+
 
 Have fun!
